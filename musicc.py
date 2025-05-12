@@ -164,35 +164,35 @@ def write_key_black(x, y):
 
 
 
-write_key_white(-371,"z")
-write_key_white(-316,"x")
-write_key_white(-258,"c")
-write_key_white(-203,"v")
-write_key_white(-148,"b")
-write_key_white(-95,"n")
-write_key_white(-40-5,"m")
+write_key_white(-371,"q")
+write_key_white(-316,"w")
+write_key_white(-258,"e")
+write_key_white(-203,"r")
+write_key_white(-148,"t")
+write_key_white(-95,"y")
+write_key_white(-40-5,"u")
 
-write_key_white(15,"q")
-write_key_white(70-1,"w")
-write_key_white(125,"e")
-write_key_white(180+2,"r")
-write_key_white(235,"t")
-write_key_white(290,"y")
-write_key_white(343,"u")
+write_key_white(15,"z")
+write_key_white(70-1,"x")
+write_key_white(125,"c")
+write_key_white(180+2,"v")
+write_key_white(235,"b")
+write_key_white(290,"n")
+write_key_white(343-3,"m")
 
 
 
-write_key_black(-343, "s")
-write_key_black(-281-1, "d")
-write_key_black(-281+105+1, "g")
-write_key_black(-281+105+1+54, "h")
-write_key_black(-281+105+1+54+54+3+2, "j")
+write_key_black(-343-1, "2")
+write_key_black(-281-1, "3")
+write_key_black(-281+105+1, "5")
+write_key_black(-281+105+1+54, "6")
+write_key_black(-281+105+1+54+54, "7")
 
-write_key_black(-281+105+1+54+54+107+2-1, "2")
-write_key_black(-281+105+1+54+54+107+2+62-1, "3")
-write_key_black(-281+105+1+54+54+107+2+62-1+107, "5")
-write_key_black(-281+105+1+54+54+107+2+62-1+107+54, "6")
-write_key_black(-281+105+1+54+54+107+2+62-1+107+54+54, "7")
+write_key_black(-281+105+1+54+54+107+2-1, "s")
+write_key_black(-281+105+1+54+54+107+2+62-1, "d")
+write_key_black(-281+105+1+54+54+107+2+62-1+107, "g")
+write_key_black(-281+105+1+54+54+107+2+62-1+107+54, "h")
+write_key_black(-281+105+1+54+54+107+2+62-1+107+54+54+2+2+2, "j")
 
 
 

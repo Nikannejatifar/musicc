@@ -27,12 +27,7 @@ def draw_rectangle(x, y, height, width, color):
     turtle.end_fill()      
     turtle.speed(100)      
     turtle.hideturtle()
-# رسم مستطیل اول (47 در 157)  
 
-
-# فاصله دادن تا مستطیل بعدی (مثلاً کمی کنار)  
-
-# رسم مستطیل دوم (25 در 109)  
 
 
 # White keys 
@@ -139,7 +134,6 @@ screen.onkeypress(lambda: play_sound('B4'), "u")
 screen.onkeypress(lambda: play_sound('B4'), "U")
 screen.onkeypress(lambda: play_sound('Bb4'), "7")
 screen.onkeypress(lambda: play_sound('Bb4'), "7")
-
 
 
 # write keys on keys!

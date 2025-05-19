@@ -3,10 +3,10 @@ import pygame
 import os
 import sys  
 
-# Initialize pygame mixer
+
 pygame.mixer.init()
 
-# Initialize screen
+
 screen = turtle.Screen()
 screen.bgcolor("gray30")
 screen.setup(width=1000, height=600)
@@ -361,6 +361,7 @@ botton3.color("orange")
 def koo():
     x10 = turtle.textinput("backgraound custumization","put your color name or code here!")
     screen.bgcolor(x10)   
+    screen.listen()
 botton3.onclick(lambda x,y:koo())
 
 # Start listening
